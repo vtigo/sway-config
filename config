@@ -235,9 +235,9 @@ bindsym $mod+shift+e exec "swaymsg output edp-1 toggle"
 
 exec waybar
 
-gaps inner 15
-default_border pixel 2
-default_floating_border pixel 2
+gaps inner 10
+default_border pixel 1
+default_floating_border pixel 1
 client.focused          #d4a574 #d4a574 #e0def4 #d4a574
 client.focused_inactive #6e6a86 #6e6a86 #908caa #6e6a86
 client.unfocused        #26233a #26233a #6e6a86 #26233a
