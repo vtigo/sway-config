@@ -231,7 +231,7 @@ bindsym $mod+r mode "resize"
 #     }
 # }
 
-bindsym $mod+shift+e exec "swaymsg output edp-1 toggle"
+bindsym $mod+shift+e exec "swaymsg output eDP-1 toggle"
 
 exec waybar
 
