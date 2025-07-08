@@ -52,7 +52,7 @@ output * bg ~/Pictures/chihiro-poeiros.jpg fill
 #
 # example configuration:
 #
-input "13364:801:keychron_keychron_v2" {
+input "13364:801:Keychron_Keychron_V2" {
     xkb_model "pc105"
     xkb_layout "us"
     xkb_variant "intl"
